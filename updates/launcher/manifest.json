@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "0.0.1",
     "files": [
         { "path": "launcher.exe", "sha256": "AABBCC..." },
         { "path": "assets/ui.png", "sha256": "112233..." }
