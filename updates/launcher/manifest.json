@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "files": [
+        { "path": "launcher.exe", "sha256": "AABBCC..." },
+        { "path": "assets/ui.png", "sha256": "112233..." }
+    ]
+}
